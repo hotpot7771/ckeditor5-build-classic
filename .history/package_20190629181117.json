@@ -1,8 +1,7 @@
 {
-  "name": "@hotpot7771/ckeditor5-build-classic",
+  "name": "@ckeditor/ckeditor5-build-classic",
   "version": "12.2.0",
   "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
-  "private": true,  
   "keywords": [
     "ckeditor5-build",
     "ckeditor",
